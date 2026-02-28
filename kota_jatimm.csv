@@ -1,0 +1,39 @@
+city1,city2,distance
+Lamongan,Tuban,58
+Tuban,Bojonegoro,65
+Lamongan,Bojonegoro,63
+Lamongan,Gresik,27
+Gresik,Surabaya,18
+Bojonegoro,Gresik,90
+Bojonegoro,Nganjuk,125
+Nganjuk,Madiun,50
+Ngawi,Madiun,32
+Ngawi ,Bojonegoro,78
+Gresik,Jombang,97
+Gresik,Mojokerto,67
+Jombang,Mojokerto,30
+Madura,Surabaya,28
+Surabaya,Mojokerto,49
+Surabaya,Sidoarjo,23
+Sidoarjo,Malang,66
+Malang,Pasuruan,55
+Pasuruan ,Sidoarjo,37
+Pasuruan,Probolinggo,39
+Situbondo,Probolinggo,95
+Bondowoso,Situbondo,35
+Jember,Bondowoso,32
+Jember,Banyuwangi,105
+Banyuwangi,Situbondo,94
+Jember ,Lumajang,172
+Probolinggo,Lumajang,46
+Lumajang,Malang,117
+Nganjuk,Ponorogo,79
+Jombang,Nganjuk,40
+Kediri,Mojokerto,47
+Kediri,Ponorogo,115
+Ponorogo,Trenggalek,52
+Tulungagung,Trenggalek,32
+Pacitan,Ponorogo,78
+Kediri,Blitar,44
+Kediri,Malang,100
+Tulungagung,Blitar,33
